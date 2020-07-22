@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1569012413 source:c:\users\mathe\desktop\3º período\aeds i\códigos\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1568928498 c:\users\mathe\desktop\3º período\aeds i\códigos\produto.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1568928497 c:\users\mathe\desktop\3º período\aeds i\códigos\cliente.h
+	<stdio.h>
+	<stdlib.h>
+
+1568950754 c:\users\mathe\desktop\3º período\aeds i\códigos\vendas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1568957094 source:c:\users\mathe\desktop\3º período\aeds i\códigos\produto.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1569024617 source:c:\users\mathe\desktop\3º período\aeds i\códigos\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendas.h"
+
+1569002923 source:c:\users\mathe\desktop\3º período\aeds i\códigos\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1568955046 c:\users\mathe\desktop\3º período\aeds i\códigos\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+
+1569024473 source:c:\users\mathe\desktop\3º período\aeds i\códigos\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1569002923 source:c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1568928497 c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\cliente.h
+	<stdio.h>
+	<stdlib.h>
+
+1569012413 source:c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1568955046 c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\menu.h
+	<stdio.h>
+	<stdlib.h>
+	"vendas.h"
+
+1568950754 c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\vendas.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"produto.h"
+
+1568928498 c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\produto.h
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+
+1569024723 source:c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1568957094 source:c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\produto.c
+	<stdio.h>
+	<stdlib.h>
+	"produto.h"
+
+1569024617 source:c:\users\mathe\desktop\3º período\aeds i\códigos\estoque\vendas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendas.h"
+
